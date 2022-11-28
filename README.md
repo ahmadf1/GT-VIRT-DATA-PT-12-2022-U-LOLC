@@ -1,4 +1,4 @@
-# GT-ATL-DATA-PT-06-2021-U-C
+# GT-ATL-DATA-PT-11-2022-U-LOLC
 
 # Welcome!
 
@@ -18,7 +18,3 @@ This repo is where the instructional staff will push class activities and resour
 * Each unit has its own directory
 * Inside each unit directory each day has its own directory
 * Inside each day are any relevant slidedecks, resources, activities and homework solutions
-
-## Video Recordings
-
-[Here is a link all class recordings.](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-virt-data-pt-12-2021-u-c-tth-b/-/blob/main/resources/video-recordings.md)
